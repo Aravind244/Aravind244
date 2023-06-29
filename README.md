@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aravind244
-- 👀 I’m interested in ...Revit API,C#,python and Dynamo 
-- 🌱 I’m currently learning ...addlin creation C#
+- 👋 Hi, I’m Aravind Kumar 
+- 👀 I’m interested in Revit API,C#,python and DSA
+- 🌱 I’m currently working addlin creation in C# for Revit.
 - 💞️ I’m looking to collaborate on ... any exiting topics 
 - 📫 How to reach me ... aravind24chandrasekar@gmail.com
 
